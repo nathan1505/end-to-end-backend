@@ -58,3 +58,11 @@ For development purposes, you can start the application in development mode (if 
    ```
    
 This may use tools like nodemon to automatically restart the server on file changes.
+
+8. **(Optional) Test the Application**
+You can run the Jest script by run:
+ ```bash
+npm test
+# Or if you are using Yarn
+yarn test
+```
